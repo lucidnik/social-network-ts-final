@@ -10,21 +10,4 @@
             "n c";
 }
 
-.header {
-    grid-area: h;
-    background-color: red;
-}
 
-.nav {
-    grid-area: n;
-    background-color: green;
-}
-
-.content {
-    grid-area: c;
-    background-color: blue;
-}
-
-.img {
-    width: 120px;
-}
